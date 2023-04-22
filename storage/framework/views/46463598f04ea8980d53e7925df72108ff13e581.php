@@ -1,0 +1,1 @@
+Usuário <?php echo e($user->name); ?>, usando email <?php echo e($user->email); ?>, incluído com sucesso.<?php /**PATH /home/storage/1/83/80/aepetba1/laravel/resources/views/partners/addUser.blade.php ENDPATH**/ ?>
